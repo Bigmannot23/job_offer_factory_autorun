@@ -1,88 +1,58 @@
-Job Offer Factory Autorun
-Operator-grade automated job application pipeline built by Alex Minnick.
+# Job Offer Factory Autorun
+
+**Operator-grade automated job application pipeline, built by Alex Minnick.**
 
 A production-ready system that automates your job search—tailoring resumes, cover letters, outreach DMs, and tracking every application so you never miss a follow-up or opportunity.
 
-🚀 What Is This?
-Job Offer Factory Autorun lets you:
+---
 
-Instantly generate job-matched resumes and cover letters
+## 🚀 What It Does
+- Instantly generate job-matched resumes and cover letters
+- Auto-create personalized recruiter DMs and LinkedIn post templates
+- Log every application, status, and follow-up in a structured tracker
+- Output a clear operator dashboard (`action_dashboard.md`) so you always know your next move
 
-Auto-create personalized recruiter DMs and LinkedIn post templates
+---
 
-Log every application, status, and follow-up in a structured tracker
+## 🧩 How It Works
+- Parses job descriptions and scores your fit (with rationale)
+- Generates all needed documents (resume, cover letter, DM, LinkedIn post)
+- Reminds you to follow up and logs each step for easy review
 
-Output a clear operator dashboard (action_dashboard.md) so you always know your next move
+---
 
-🧩 How It Works
-For each job:
+## 📂 Example Output
+- `action_dashboard.md`: Operator dashboard—job summaries, fit scores, next steps, file links
+- `applications.json`: Tracker for all applications and follow-ups
+- Custom resumes, cover letters, DMs, LinkedIn posts for each job
 
-Parses the job description and scores your fit (with rationale)
+---
 
-Generates:
+## ✅ How to Use
+1. Review generated files for each job
+2. Submit tailored resume and cover letter
+3. Send the DM/email to the hiring manager
+4. Update LinkedIn with your open-to-work post (optional)
+5. Use the tracker and dashboard to log replies and follow up
 
-Custom resume (resume_[company].pdf)
+---
 
-Cover letter (cover_letter_[company].pdf)
+## 📌 Example Jobs Processed
+- Senior AI Developer, Python – Koombea
+- Senior Software Engineer, Python – 3Pillar Global
+- Senior Software Architect, Python & Java – CI&T
+- Python Software Engineer – Whitestack
+- SOC Automation Engineer – DeepSource GmbH
 
-Personalized DM/email (outreach_dm_[company].txt)
+(See `action_dashboard.md` for full samples.)
 
-LinkedIn post template (linkedin_post_[company].txt)
+---
 
-Tracker entry (applications.json)
+## 💡 Built By
+**Alex Minnick**  
+[linkedin.com/in/lexvion](https://linkedin.com/in/lexvion)  
+[github.com/Bigmannot23](https://github.com/Bigmannot23)
 
-Central action dashboard (action_dashboard.md)
+---
 
-Reminds you to follow up and logs each step for easy review
-
-📂 Example Output
-action_dashboard.md: Operator dashboard—job summaries, fit scores, next manual steps, and links to all files
-
-applications.json: Tracker for all applications, statuses, fit notes, and follow-up dates
-
-Tailored resumes, cover letters, and DMs for each job
-
-LinkedIn post templates
-
-✅ How to Use
-Review generated files for each target job
-
-Submit tailored resume and cover letter
-
-Send the DM/email to the hiring manager or recruiter
-
-Post the LinkedIn update (optional but powerful)
-
-Use the tracker and dashboard to log replies and follow up
-
-Repeat for every new job—operate at scale
-
-🛠️ Why Use This?
-Never send a generic resume or lose track of applications again
-
-Every step is logged and repeatable—maximize interviews with minimal manual work
-
-Proven to get more responses, faster, with zero wasted effort
-
-📌 Example Jobs Processed
-Senior AI Developer, Python – Koombea
-
-Senior Software Engineer, Python – 3Pillar Global
-
-Senior Software Architect, Python & Java – CI&T
-
-Python Software Engineer – Whitestack
-
-SOC Automation Engineer – DeepSource GmbH
-
-(See action_dashboard.md for full samples.)
-
-💡 Built By
-Alex Minnick
-linkedin.com/in/lexvion
-github.com/Bigmannot23
-
-PRs, feedback, and collaboration welcome!
-
-Automate your job search. Track every move. Operate at scale.
-Land interviews and offers with zero manual overhead.
+*Automate your job search. Track every move. Operate at scale. Land interviews and offers with zero manual overhead.*
