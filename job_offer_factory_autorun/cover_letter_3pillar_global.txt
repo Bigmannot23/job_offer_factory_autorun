@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the Senior Software Engineer, Python role at 3Pillar Global. As a self‑taught software engineer with a track record of delivering production‑ready solutions, I am excited by the opportunity to apply my experience to your team.
+
+My work at Lexvion demonstrates my ability to lead complex projects from concept to deployment. I designed a microservice‑based backend using FastAPI and Postgres, integrated OpenAI GPT models to deliver real‑time compliance Q&A, and implemented cryptographically signed audit logs to ensure tamper‑proof evidence. I also built a React/TypeScript dashboard so stakeholders could visualise trust data and manage policies. This end‑to‑end project sharpened my skills in API design, security, frontend collaboration and devops automation.
+
+In addition, I created a data‑driven lead scoring API that uses FastAPI, Pandas and Streamlit to automate analytics for sales teams. I built RESTful endpoints, implemented scoring algorithms and developed a dashboard that visualises lead scores in real time. Through this project I honed my skills in data processing, asynchronous Python and service optimisation.
+
+Convey enthusiasm for delivering reliable web services and collaborating in Agile teams.
+Highlight experiences with FastAPI and React/TypeScript to build full-stack products.
+Discuss ability to engage in architecture discussions and implement best practices.
+Express confidence in rapidly adapting to 3Pillar’s tech stack and workflows.
+
+I am drawn to 3Pillar Global because of your emphasis on innovation and building robust solutions. I am confident that my background in Python, AI integration and full‑stack development will allow me to contribute meaningfully from day one. I would welcome the opportunity to discuss how my experience and passion align with your needs.
+
+Thank you for considering my application. I look forward to the possibility of speaking with you.
+
+Sincerely,
+AI Mastermind

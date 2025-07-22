@@ -1,0 +1,6 @@
+Hi 3Pillar Global Hiring Team,
+
+I hope you're doing well. I recently came across the Senior Software Engineer, Python role at 3Pillar Global. I'm a self-taught Python engineer who has built production-ready APIs and integrated AI models into real-world products. You can see my Operators Lead Scoring API where I designed RESTful endpoints, implemented scoring algorithms and built a Streamlit dashboard for analytics. I believe my background in Python, microservices and AI/automation aligns well with your requirements. I'd love to discuss how I can contribute to your team.
+
+Best regards,
+AI Mastermind

@@ -1,0 +1,41 @@
+AI Mastermind
+Self‑Taught Python Developer & Full‑Stack Engineer
+
+SUMMARY
+• Self-taught software engineer with hands-on experience designing and building production-ready Python services and full-stack applications. Creator of Lexvion, a compliance SaaS platform integrating FastAPI, OpenAI GPT models and cryptographically signed audit logs, with a React/TypeScript frontend. Built a data-driven lead scoring API using FastAPI, Pandas and Streamlit dashboards to automate analytics and decision making. Passionate about integrating AI/ML, securing data pipelines and delivering scalable microservices. Proven ability to learn new technologies rapidly and deliver results without formal credentials.
+
+TECHNICAL SKILLS
+Languages: Python, TypeScript/JavaScript, SQL
+Backend: FastAPI, Flask, RESTful APIs, microservices, Pandas, SQLAlchemy
+Frontend: React, TypeScript, Streamlit, TailwindCSS
+Data: Postgres, SQLite, Pandas; familiar with Oracle/PL-SQL; strong SQL skills and experience optimizing queries
+DevOps & Tools: Docker, GitHub Actions, Terraform (introductory), AWS (EC2, S3), CI/CD, Ed25519 cryptographic signing
+Methodologies: Test-Driven Development, Agile/Scrum, Security & Compliance, Documentation
+
+PROJECT EXPERIENCE
+Lexvion – Compliance SaaS Platform
+• Architected and implemented a microservice-based backend with FastAPI and Postgres to deliver a trust center for clients.
+• Integrated OpenAI GPT models to provide real-time compliance Q&A; designed prompts and handled context and privacy.
+• Implemented cryptographically signed audit logs using Ed25519 to ensure tamper-proof evidence of all interactions.
+• Built a React/TypeScript dashboard using TailwindCSS to visualise trust data, manage policies and interact with the API.
+• Automated deployment and audit pipelines using Docker and GitHub Actions; focused on security, scalability and user experience.
+
+Operators Lead Scoring API – Data-Driven Scoring Platform
+• Developed a Python FastAPI service that processes lead data and computes scores using Pandas and custom algorithms.
+• Designed RESTful endpoints for lead submission, scoring and analytics; ensured asynchronous performance and robust validation.
+• Built a Streamlit dashboard to visualise lead scores and usage analytics; integrated with GPT for explanation of scores.
+• Wrote comprehensive tests and implemented CI/CD via GitHub Actions; emphasised modularity and maintainability.
+
+ADDITIONAL PROJECTS & CONTRIBUTIONS
+• Created multiple full-stack applications using Flask and React, including user authentication and third-party API integrations.
+Contributed to open-source projects and produced code samples showcasing best practices in Python and JavaScript.
+
+JOB‑SPECIFIC HIGHLIGHTS
+• Emphasised experience building event-driven pipelines and integrating GPT/LLMs.
+• Highlighted API integration skills and use of services like OpenAI and third-party APIs.
+• Mentioned interest and readiness to learn cybersecurity tools (SOAR platforms, threat intelligence feeds).
+• Demonstrated ability to design scalable architectures and maintain clean code.
+
+EDUCATION & DEVELOPMENT
+• Self‑taught: Completed numerous online courses and certifications in computer science, algorithms and machine learning.
+• Continuous learning: Actively explore new tools such as LangChain, Terraform and PL/SQL to expand my skill set.

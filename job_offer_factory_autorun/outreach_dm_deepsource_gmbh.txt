@@ -1,0 +1,6 @@
+Hi DeepSource GmbH Hiring Team,
+
+I hope you're doing well. I recently came across the SOC Automation Engineer – Python, SOAR & LLM Integrations role at DeepSource GmbH. I'm a self-taught Python engineer who has built production-ready APIs and integrated AI models into real-world products. Explore my Lexvion project where I integrated GPT models with FastAPI to deliver secure compliance workflows and automated audit logs. I believe my background in Python, microservices and AI/automation aligns well with your requirements. I'd love to discuss how I can contribute to your team.
+
+Best regards,
+AI Mastermind

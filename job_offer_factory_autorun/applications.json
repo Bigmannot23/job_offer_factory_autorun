@@ -1,0 +1,72 @@
+[
+  {
+    "date_submitted": "2025-07-18",
+    "job_title": "Senior AI Developer, Python",
+    "company": "Koombea",
+    "source": "RemoteRocketship",
+    "job_url": "https://remoterocketship.com/jobs/senior-ai-developer-python-koombea",
+    "resume_version": "resume_koombea.pdf",
+    "cover_letter_version": "cover_letter_koombea.pdf",
+    "dm_sent": false,
+    "follow_up_due": "2025-07-21",
+    "status": "Applied",
+    "fit_score": 70,
+    "notes": "Strong Python experience with FastAPI, microservices, and AI integration (Lexvion uses GPT models). ; Experience building ETL-like pipelines and RESTful APIs (Lead Scoring API). ; Familiarity with AWS and cloud deployment (Docker, GitHub Actions, AWS EC2/S3). ; Quick learner eager to pick up AWS Bedrock, SageMaker, and deeper AWS services. ; Lacks formal 5+ years experience and specific AWS services but compensates with rapid self-learning."
+  },
+  {
+    "date_submitted": "2025-07-18",
+    "job_title": "Senior Software Engineer, Python",
+    "company": "3Pillar Global",
+    "source": "RemoteRocketship",
+    "job_url": "https://remoterocketship.com/jobs/senior-software-engineer-python-3pillar-global",
+    "resume_version": "resume_3pillar_global.pdf",
+    "cover_letter_version": "cover_letter_3pillar_global.pdf",
+    "dm_sent": false,
+    "follow_up_due": "2025-07-21",
+    "status": "Applied",
+    "fit_score": 80,
+    "notes": "Extensive experience building web services with Python (FastAPI, Flask) and full-stack applications. ; Hands-on Agile/Scrum practices; built projects iteratively and collaborated across frontend and backend. ; Experience deploying applications on AWS using Docker and GitHub Actions. ; Strong focus on clean, maintainable code, testing, and CI/CD pipelines. ; Solid communication skills and ability to engage in architecture discussions."
+  },
+  {
+    "date_submitted": "2025-07-18",
+    "job_title": "Senior Software Architect, Python and Java",
+    "company": "CI&T",
+    "source": "RemoteRocketship",
+    "job_url": "https://remoterocketship.com/jobs/senior-software-architect-python-java-cit",
+    "resume_version": "resume_ciandt.pdf",
+    "cover_letter_version": "cover_letter_ciandt.pdf",
+    "dm_sent": false,
+    "follow_up_due": "2025-07-21",
+    "status": "Applied",
+    "fit_score": 60,
+    "notes": "Strong background in designing and integrating microservices and APIs using Python. ; Experience with SQL databases (Postgres) and interest in expanding to NoSQL and cloud data platforms. ; Proven ability to propose and implement scalable data pipelines (e.g., lead scoring). ; Lack of direct experience with Java, Azure, Databricks, Couchbase, Snowflake but eager to learn. ; Strong communication skills and experience collaborating with stakeholders."
+  },
+  {
+    "date_submitted": "2025-07-18",
+    "job_title": "Python Software Engineer",
+    "company": "Whitestack",
+    "source": "RemoteRocketship",
+    "job_url": "https://remoterocketship.com/jobs/python-software-engineer-whitestack",
+    "resume_version": "resume_whitestack.pdf",
+    "cover_letter_version": "cover_letter_whitestack.pdf",
+    "dm_sent": false,
+    "follow_up_due": "2025-07-21",
+    "status": "Applied",
+    "fit_score": 65,
+    "notes": "Experience integrating and building on open-source tools, including contributions and custom API integrations. ; Proficiency in Python and working knowledge of cloud platforms (AWS) and containerisation with Docker. ; Experience automating deployment via GitHub Actions and exploring Kubernetes and Helm. ; Active participation in open-source communities and willingness to contribute to upstream projects. ; Need to deepen knowledge in Kubernetes, OpenStack and multiple cloud providers, but able to learn quickly."
+  },
+  {
+    "date_submitted": "2025-07-18",
+    "job_title": "SOC Automation Engineer \u2013 Python, SOAR & LLM Integrations",
+    "company": "DeepSource GmbH",
+    "source": "RemoteRocketship",
+    "job_url": "https://remoterocketship.com/jobs/soc-automation-engineer-python-soar-llm-integrations-deepsource",
+    "resume_version": "resume_deepsource_gmbh.pdf",
+    "cover_letter_version": "cover_letter_deepsource_gmbh.pdf",
+    "dm_sent": false,
+    "follow_up_due": "2025-07-21",
+    "status": "Applied",
+    "fit_score": 55,
+    "notes": "Strong Python skills and experience building event-driven microservices and pipelines. ; Proven ability to integrate AI models and LLMs into real-world applications (Lexvion). ; Experience with RESTful APIs and ability to integrate third-party services; comfortable using n8n or similar. ; No direct experience in cybersecurity/SOC automation or SOAR platforms; however, eager to learn and apply skills. ; Passion for automation and interest in security operations and threat intelligence."
+  }
+]

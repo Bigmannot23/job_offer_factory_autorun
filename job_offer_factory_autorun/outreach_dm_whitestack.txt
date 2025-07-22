@@ -1,0 +1,6 @@
+Hi Whitestack Hiring Team,
+
+I hope you're doing well. I recently came across the Python Software Engineer role at Whitestack. I'm a self-taught Python engineer who has built production-ready APIs and integrated AI models into real-world products. See my lead-scoring API project where I leveraged FastAPI and Docker to build a modular, open-source service with automated deployment and analytics. I believe my background in Python, microservices and AI/automation aligns well with your requirements. I'd love to discuss how I can contribute to your team.
+
+Best regards,
+AI Mastermind
