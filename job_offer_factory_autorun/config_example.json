@@ -1,0 +1,5 @@
+{
+  "scoring_method": "heuristic",
+  "resume_template": "default_template.docx",
+  "cover_letter_template": "default_letter.docx"
+}

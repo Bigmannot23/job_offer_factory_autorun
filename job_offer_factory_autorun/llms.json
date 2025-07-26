@@ -1,0 +1,28 @@
+{
+  "name": "Job Offer Factory",
+  "description": "Turn job descriptions into tailored applications on autopilot. The pipeline parses job postings, scores fit, generates custom resumes and cover letters and logs each application so you can apply to more roles with less effort.",
+  "usage": [
+    "Clone this repository and install dependencies.",
+    "Gather a set of job postings (CSV, JSON or scraped).",
+    "Run the pipeline: parse postings, score fit, generate resumes and cover letters.",
+    "Review and send applications; check the generated dashboard for progress."
+  ],
+  "architecture": [
+    "Job description parsing extracts key requirements and keywords.",
+    "Fit scoring uses heuristics or models to assess how well you match a posting.",
+    "Automated document generation crafts tailored resumes and cover letters.",
+    "Application logging records each submission and its status for analysis.",
+    "Modular pipeline: each stage can be replaced or extended."
+  ],
+  "inputs": "Project-specific inputs (see usage)",
+  "outputs": "Project-specific outputs (see usage)",
+  "tags": [
+    "job",
+    "offer",
+    "factory"
+  ],
+  "links": {
+    "repository": "https://github.com/Bigmannot23/job_offer_factory_autorun",
+    "documentation": "OPERATOR_README.md"
+  }
+}
