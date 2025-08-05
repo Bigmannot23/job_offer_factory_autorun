@@ -25,7 +25,7 @@ Searching for a job is laborious. Automating repetitive tasks lets operators foc
 2. Gather a set of job postings (CSV, JSON or scraped).
 3. Run the pipeline: parse postings, score fit, generate documents.
 4. Review and send applications; check the generated dashboard for progress.
-5. See `polished_README.md` and `operator_guide.md` for details【574582600150117†L23-L26】.
+5. See `polished_README.md` and `operator_guide.md` for details.
 
 ### Operator principles
 Automation first (bot does the work), modularity (each stage is replaceable), operator focus (helps job seekers directly) and compounding learning (fits into the wider portfolio and informs the metrics dashboard).
@@ -37,7 +37,10 @@ Automation first (bot does the work), modularity (each stage is replaceable), op
 
 ---
 [linkedin.com/in/lexvion](https://linkedin.com/in/lexvion)  
-[github.com/Bigmannot23](https://github.com/Bigmannot23)
+[github.com/Bigmannot23](https://github.com/Bigmannot23)  
+📧 [theaivorasol@gmail.com](mailto:theaivorasol@gmail.com)  
+🌐 [LexvionSolutions.com](https://lexvionsolutions.com)  
+📦 Products: [GigNav](https://aivorasol.gumroad.com/l/gignav) · [ProposalPal](https://aivorasol.gumroad.com/l/proposalpal) · [LeadGenie](https://aivorasol.gumroad.com/l/leadgenie) · [Lexvion](https://aivorasol.gumroad.com/l/lexvion)
 
 ---
 
